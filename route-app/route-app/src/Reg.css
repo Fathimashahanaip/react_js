@@ -1,0 +1,15 @@
+.back{
+    /* background-color: antiquewhite; */
+    color: white;
+}
+.ca{
+    background-color:chocolate;
+    padding: 2cm;
+    margin: 2cm;
+    width: 75%;
+}
+.button{
+    width: 10%;
+    border-radius: 10%;
+
+}

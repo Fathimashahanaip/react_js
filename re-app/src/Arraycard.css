@@ -1,0 +1,27 @@
+.card{
+    float: left;
+    margin: 0cm;
+    align-items: center;
+    border-color:white;
+    margin-top: 1cm;
+    /* box-shadow: 5px 5px #888888; */
+    
+   
+    
+
+
+}
+.butt{
+    background-color:black;
+   
+    border-radius: 25%;
+    border-color: black;
+}
+.card{
+    width: 25%;
+}
+.img{
+    border-color: #888888;
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+

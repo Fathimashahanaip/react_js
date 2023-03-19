@@ -1,0 +1,16 @@
+/* .ca{
+  align-items: left;
+} */
+.row{
+  width: 25%;
+  float: left;
+
+
+  
+}
+.ca{
+  border-color: white;
+  box-shadow: 5px 5px 5px 5px;
+  margin: 2cm;
+  padding-left: 1cm;
+}

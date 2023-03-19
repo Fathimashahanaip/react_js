@@ -1,0 +1,20 @@
+.car{
+    background-color:chocolate;
+    width: 75%;
+    padding: 2cm;
+    margin: 2cm;
+}
+.form{
+    color: white;
+}
+.button{
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+
+.ba{
+    /* background-color: antiquewhite; */
+    /* padding: 2cm; */
+}
